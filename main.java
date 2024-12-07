@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Import all the packages created during this conversation
 import oop_experiment.exp1.OddEvenChecker;
 import oop_experiment.exp2.PrimeChecker;
 import oop_experiment.exp3.VariableDemo;
